@@ -1,0 +1,12 @@
+*.csv
+*.npy
+*cp*
+*.png
+*.t7
+*.hdf5
+*.parquet
+*Data/
+*.jpg
+*.ipynb_checkpoints*
+Weights/
+*checkpoint
