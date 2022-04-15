@@ -1,7 +1,6 @@
 *.csv
 *.npy
 *cp*
-*.png
 *.t7
 *.hdf5
 *.parquet
@@ -10,3 +9,4 @@
 *.ipynb_checkpoints*
 Weights/
 *checkpoint
+Common - II/Images/
