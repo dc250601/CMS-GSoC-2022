@@ -29,7 +29,7 @@ Validation **AUC: 0.8224**
 Validation **AUC: 0.7980**
 | Loss | AUC | Learning Rate |
 | --- | --- | --- |
-| ![Loss graph (common II)](readme_images/common_II_Loss.png) | ![AUC graph (common II)](readme_images/common_II_AUC.png) | ![Learning Rate graph (common II)](readme_images/common_II_Lr.png) |
+| ![Loss graph (common II)](readme_images/common_II_Loss.png) | ![AUC graph (common II)](readme_images/common_II_AUC.png) | ![Learning Rate graph (common II)](readme_images/common_2_lr.png) |
 
 
 
